@@ -122,7 +122,7 @@ decide how to implement this.
 ......................................................................*)
                                                    
   let add_listener (evt : 'a event) (listener : 'a -> unit) : id =
-    failwith "WEvent.add_listener not implemented"
+    failwith "whats the point of this lab"
 
 (*......................................................................
 Exercise 2: Write remove_listener, which, given an id and an event,
